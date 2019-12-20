@@ -1,0 +1,3 @@
+/home/hkuit104/Desktop/C++/libtorch-yolov3/build/CMakeFiles/edit_cache.dir
+/home/hkuit104/Desktop/C++/libtorch-yolov3/build/CMakeFiles/yolo-app.dir
+/home/hkuit104/Desktop/C++/libtorch-yolov3/build/CMakeFiles/rebuild_cache.dir

@@ -191,6 +191,6 @@ class FastPose(nn.Module):
 
 
 model = InferenNet()
-example = torch.rand(30, 3, 224, 224)
+example = torch.rand(30, 3, 320, 256)
 traced_script_module = torch.jit.trace(model, example)
 traced_script_module.save("./models/sppe/posemodel.pt")
